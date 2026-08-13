@@ -2738,4 +2738,4 @@ UnifiedPush 是一套可以让用户选择推送通知方式的规范和工具�
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=xlucn/oh-my-foss-android&type=Timeline)](https://star-history.com/#xlucn/oh-my-foss-android&Timeline)
+[![Star History Chart](https://star-history.dera.page/svg?repos=xlucn/oh-my-foss-android&type=Timeline)](https://star-history.dera.page/#xlucn/oh-my-foss-android&Timeline)
